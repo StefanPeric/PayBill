@@ -1,0 +1,15 @@
+.PayBillPage {
+    width: 90vw;
+    margin: auto;
+}
+
+@media screen and (min-width: 700px) {
+    .PayBillPage {
+        width: 650px;
+        /*margin: auto;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

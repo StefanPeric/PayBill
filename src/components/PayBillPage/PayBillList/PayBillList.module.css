@@ -1,0 +1,12 @@
+.PayBillList {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+.ListRow {
+    display: flex;
+    justify-content: space-between;
+}
